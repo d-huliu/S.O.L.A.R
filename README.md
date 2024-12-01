@@ -11,7 +11,7 @@
 
 SOLAR is an immersive app on Microsoft HoloLens that allows users to zoom in to a customizable level, hear written text (e.g. books, newspapers, documents, TV) as spoken speech, and recognize other people nearby (giving names for stored people, and age/gender/emotion estimates for others). 
 
-SOLAR utilizes Unity, implementing various services from Microsoft’s Azure Cognitive Services and Twilio for phone calls.
+SOLAR utilizes Unity, implementing various services from Microsoft’s Azure Cognitive Services.
 
 -----------------------------------------------------------------------------------------------------------------
 ## Real World Application
