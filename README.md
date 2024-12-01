@@ -39,7 +39,7 @@ Platform: Microsoft Hololens / Universal Windows Platform Development Tools: Mic
 
 
 -----------------------------------------------------------------------------------------------------------------
-## 🔜What's next for S.O.L.A.R
+## What's next for S.O.L.A.R
 
 - Speech-to-text conversion intergration with the AR, aiding people with hearing disabilities to be able to read what other people are saying
 
