@@ -1,13 +1,8 @@
-
-
-# S.O.L.A.R
-
-## Seeing, Observing, Learning, And Remembering
-
-![Cover](https://i.imgur.com/7MkG4m7.jpeg)
------------------------------------------------------------------------------------------------------------------
-
 # 🌟 SOLAR: Seeing, Observing, Learning, and Remembering through Augmented Reality 🌟
+
+<img src="https://i.imgur.com/uUWIQak.jpegg" alt="Image 3" style="width: 90%; max-width: 700px; height: auto;" />
+
+
 
 ## 💭 Inspiration 💭
 
@@ -27,11 +22,12 @@ Did you know?
 - **Customizable Zoom**: Enables users to focus on specific objects or text with precision, making it easier to navigate their surroundings or read documents.  
 - **Text-to-Speech Conversion**: Converts text from books, newspapers, TV captions, or even handwritten notes into spoken words, ensuring continuous access to information.  
 - **Facial Recognition and Emotional Insights**: Identifies familiar faces, provides names for stored individuals, and estimates age, gender, and emotional states for others nearby.  
-- **Emergency Assistance**: Integrated with Twilio, the app allows users to make instant emergency calls, providing a critical lifeline during urgent situations.
 
 SOLAR is more than an app—it's a gateway to independence, tailored to the needs of those it serves.
 
 ---
+<img src="https://i.imgur.com/cXodJoQ.png" alt="Image 1" style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;" />
+
 
 
 ## 🔧 How It Was Built 🔧
@@ -61,6 +57,9 @@ SOLAR was developed using a combination of advanced tools, APIs, and SDKs to del
 - The **Text-to-Speech Functionality** relied on the Computer Vision API for text extraction, followed by the Speech Service to deliver auditory feedback.
 ---
 
+
+
+ <img src="https://i.imgur.com/HNE4zgi.png" alt="Image 2" style="width: 100%; max-width: 600px; height: auto; margin-bottom: 20px;" />
 
 ## ⚓ Challenges We Faced ⚓
 
@@ -101,6 +100,8 @@ Despite these obstacles, we successfully delivered **SOLAR** through:
 The challenges we faced were immense, but they ultimately pushed us to think outside the box and develop a solution that not only works but excels within the constraints of legacy hardware. **SOLAR** stands as a testament to the power of adaptability, determination, and innovation in software development.
 
 ---
+
+<img src="https://i.imgur.com/ksJomSf.png" alt="Image 3" style="width: 100%; max-width: 600px; height: auto;" />
 
 ## 🏆 Accomplishments to Note 🏆
 
